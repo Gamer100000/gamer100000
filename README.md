@@ -5,7 +5,7 @@
   Yonathan Assefa</h1>
 <h3 align="center"> <img align="center" src="github(1).gif" width="20%" alt="gamer100000" /> 
 <br>
-  Yaw, this dude is a passionated python developer, graphic designer and video editor.</h3>
+  👋 Yaw, this dude is a passionated python developer, graphic designer and video editor.🤘</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamer100000" alt="gamer100000" /></a> </p>
 
