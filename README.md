@@ -22,7 +22,7 @@
 <a href="https://fb.com/https://www.facebook.com/yonathan.assefa.95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yonathan.assefa.95/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yonathan.assefa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yonathan.assefa/" height="30" width="40" /></a>
 <a href="https://www.behance.net/yonathanassefa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yonathanassefa" height="30" width="40" /></a>
-<a href="https://medium.com/@yab95assefa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yab95assefa" height="30" width="40" /></a>
+<a href="https://medium.com/@_michaellin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_michaellin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
