@@ -1,4 +1,4 @@
- <img align="right" src="github(1).gif" width="20%" alt="gamer100000" /> 
+ <img align="right" src="github(1).gif" width="20%" alt="gamer100000" /> <br>
 <h1 align="center">
   <img align="center" src="github.gif" width="25%" alt="gamer100000" /><br>
   Hi 👋, I'm Yonathan Assefa</h1>
