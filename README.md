@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="github.gif" width="25%" alt="gamer100000" />
-  <br>
-  <img src="github(1).gif" width="20%" alt="gamer100000" /> Hi, I'm Yonathan Assefa</h1>
+  <img src="github(1).gif" width="20%" alt="gamer100000" /> <br>
+  Hi 👋, I'm Yonathan Assefa</h1>
 <h3 align="center">A passionate web developer, graphic designer and video editor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer100000&label=Profile%20views&color=0e75b6&style=flat" alt="gamer100000" /> </p>
@@ -38,5 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamer100000&" alt="gamer100000" /></p>
 
-<img align="center" src="github(2).gif" width="25%" alt="gamer100000" />
-<img align="center" src="github(2).gif" width="25%" alt="gamer100000" />
