@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer100000&label=Profile%20views&color=0e75b6&style=flat" alt="gamer100000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamer100000" alt="gamer100000" /></a> </p>
-
 - 💬 Ask me about **python, django and flask**
 
 - 📫 How to reach me **yab95assefa@gmail.com**
