@@ -1,3 +1,4 @@
+<img align="center" src="github.gif" alt="gamer100000" />
 <h1 align="center">Hi 👋, I'm Yonathan Assefa</h1>
 <h3 align="center">A passionate web developer, graphic designer and video editor.</h3>
 
