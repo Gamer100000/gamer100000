@@ -30,8 +30,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/yonathan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yonathan" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamer100000&" alt="gamer100000" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gamer100000&show_icons=true&locale=en" alt="gamer100000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer100000&show_icons=true&locale=en" alt="gamer100000" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gamer100000&" alt="gamer100000" /></p>
+
 
