@@ -1,4 +1,6 @@
-<img align="center" margin-left="40" src="github.gif" width="40%" alt="gamer100000" />
+<dl><dd><dl><dd><dl><dd><dl><dd>
+<img align="center" src="github.gif" width="40%" alt="gamer100000" />
+</dd></dl></dd></dl></dd></dl></dd></dl>
 <h1 align="center">Hi 👋, I'm Yonathan Assefa</h1>
 <h3 align="center">A passionate web developer, graphic designer and video editor.</h3>
 
