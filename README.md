@@ -1,6 +1,6 @@
 <h1 align="center">
   <img align="center" src="github.gif" width="25%" alt="gamer100000" />
-  <img src="github(1).gif" width="20%" alt="gamer100000" /> <br>
+  <img align="center" src="github(1).gif" width="20%" alt="gamer100000" /> <br>
   Hi 👋, I'm Yonathan Assefa</h1>
 <h3 align="center">A passionate web developer, graphic designer and video editor.</h3>
 
