@@ -1,7 +1,9 @@
 <h1 align="center">
   <img align="center" src="github.gif" width="25%" alt="gamer100000" /><br>
-  Hi 👋, I'm Yonathan Assefa</h1>
-<h3 align="center"> <img align="center" src="github(1).gif" width="20%" alt="gamer100000" /> This dude is a developer, graphic designer and video editor.</h3>
+  Yonathan Assefa</h1>
+<h3 align="center"> <img align="center" src="github(1).gif" width="20%" alt="gamer100000" /> 
+<br>
+  Yaw, this dude is a developer, graphic designer and video editor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer100000&label=Profile%20views&color=0e75b6&style=flat" alt="gamer100000" /> </p>
 
